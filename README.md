@@ -115,8 +115,11 @@ plt.show()
 ```
 
 # Output
-<img width="1049" height="374" alt="image" src="https://github.com/user-attachments/assets/f97f57de-1167-45e3-ab6c-1cc11bf5f597" />
-<img width="1056" height="177" alt="image" src="https://github.com/user-attachments/assets/0d1e7c07-7ac6-4f25-9e97-d63762f2d043" />
+
+<img width="950" height="329" alt="download" src="https://github.com/user-attachments/assets/38ea54a1-75fc-4ba2-83e1-efee5e107b3a" />
+<img width="1990" height="301" alt="download" src="https://github.com/user-attachments/assets/8b4497b3-ba57-4fc6-b56b-1e5aa2660fc7" />
+
+
 
 # Result
 
