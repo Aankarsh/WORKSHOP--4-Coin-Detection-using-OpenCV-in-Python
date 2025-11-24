@@ -1,4 +1,4 @@
-# WORKSHOP-3-Canny-Edge-Detection
+# WORKSHOP -4: Coin Detection using OpenCV in Python
 
 # Coin-detection-using-opencv-in-python
 
